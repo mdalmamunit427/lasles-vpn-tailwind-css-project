@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+html{
+    scroll-behavior: smooth;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+.swiper-pagination-bullet {
+    width: 15px;
+    height: 15px;
+    background: #DDE0E4;
+    opacity: 1;
+    margin: 0 5px !important;
+}
+
+.swiper-pagination-bullet-active {
+    background: #F53855;
+    width: 45px;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+}
