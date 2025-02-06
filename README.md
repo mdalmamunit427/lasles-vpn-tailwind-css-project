@@ -1,5 +1,7 @@
 # lasles-vpn-tailwind-css-project
 
+![LaslesVPN](./src/images/lasles-vpn.png)
+
 ## Project Overview
 
 This project is a simple landing page for a VPN service. It is built using Tailwind CSS and AOS library for animations.
