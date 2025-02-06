@@ -1,6 +1,6 @@
 # lasles-vpn-tailwind-css-project
 
-![LaslesVPN](./src/images/lasles-vpn.png)
+![LaslesVPN](src/images/github-cover.png)
 
 ## Project Overview
 
